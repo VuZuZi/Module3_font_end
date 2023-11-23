@@ -1,0 +1,16 @@
+p{
+    width: 40%;
+    font-family: Sans-serif;
+    text-align: left;
+    font-size: 16px;
+    text-indent: 10px;
+    margin-bottom: 0;
+}
+ .special{
+    font-weight: bold;
+}
+ .link{
+     color: blue;
+     text-decoration: none; /*bỏ gạch chân*/
+
+ }

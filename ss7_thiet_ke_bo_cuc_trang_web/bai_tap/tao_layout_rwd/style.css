@@ -1,0 +1,55 @@
+nav{
+}
+nav ul{
+    display: flex;
+    flex: 9;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    line-height: 40px;
+
+}
+nav ul li{
+    color: white;
+    width: 10%;
+    text-align: center;
+}
+nav ul li:hover{
+    background-color: #cdcdcd;
+}
+#login{
+    flex: 1;
+    width: 30px;
+    color: red;
+    text-align: right;
+    margin-right: 10px;
+}
+.container .row{
+    display: flex;
+}
+.row .col_left{
+    flex: 2;
+    background-color: #cdcdcd;
+}
+.row .col_center{
+    flex: 6;
+    margin: 10px;
+}
+.row .col_right{
+    flex: 2;
+    background-color: #cdcdcd;
+}
+.row .col_right .ads{
+    background-color: white;
+    border: 20px;
+    margin: 20px;
+    text-align: center;
+    line-height: 30px;
+}
+footer{
+    line-height: 40px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}

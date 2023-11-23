@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      margin: 10px;
+      padding: 10px;
+      box-sizing: border-box;
+      float: left;
+      width: 100%; /* Mặc định cho màn hình nhỏ */
+    }
+
+    @media only screen and (min-width: 768px) {
+      /* Màn hình trung bình: Hiển thị 2 card trên mỗi dòng */
+      .card {
+        width: 48%;
+      }
+    }
+
+    @media only screen and (min-width: 1200px) {
+      /* Màn hình lớn: Hiển thị 4 card trên mỗi dòng */
+      .card {
+        width: 23%;
+      }
+    }
+  </style>
+  <title>Responsive Cards</title>
+</head>
+<body>
+
+<div class="card">
+  <img src="image1.jpg" alt="Card 1">
+  <p>Description for Card 1</p>
+</div>
+
+<div class="card">
+  <img src="image2.jpg" alt="Card 2">
+  <p>Description for Card 2</p>
+</div>
+
+<div class="card">
+  <img src="image3.jpg" alt="Card 3">
+  <p>Description for Card 3</p>
+</div>
+
+<div class="card">
+  <img src="image4.jpg" alt="Card 4">
+  <p>Description for Card 4</p>
+</div>
+
+</body>
+</html>

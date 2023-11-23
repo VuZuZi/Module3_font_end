@@ -1,0 +1,58 @@
+nav ul{
+    display: flex;
+    list-style-type: none;
+    background-color: gray;
+    line-height: 40px;
+    padding: 10px;
+}
+header ul{
+    display: flex;
+    list-style-type: none;
+    background-color: gray;
+    padding: 5px;
+}
+header ul li{
+    width: 25%;
+    text-align: center;
+}
+header ul li a{
+    color: #cdcdcd;
+    text-align: center;
+}
+li:not(:last-child) ::after{
+    content: "  |";
+}
+.row{
+    display: flex;
+}
+.row .col_3{
+    flex: 3;
+}
+.row .col_7{
+    flex: 7;
+    width: 100%;
+    height: 400px;
+    padding: 5%;
+}
+.row .col_3 ul{
+    list-style: none;
+}
+.card{
+    border: 1px solid black;
+    /*margin: 5px;*/
+}
+.card img{
+    width: 100%;
+    height: auto;
+}
+.video{
+    width: 100%;
+    height: auto;
+}
+.row .col_7 iframe{
+    width: 80%;
+    line-height: 400px;
+}
+.card h3:hover{
+    color: blue;
+}
