@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="faa0ddd4-cb63-490c-963c-4e16998c4a88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/src/main/java/com/example/thoigianhethong/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/src/main/java/com/example/thoigianhethong/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThoiGianHeThong/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/bai_tap/landing_page/Microsoft.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/bai_tap/landing_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/05d32363-d534-4d93-9b65-cde674775e71(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/05d32363-d534-4d93-9b65-cde674775e71.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/0m120v.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/1x1clear.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/22b85d534a959cd49f92371c64b91abe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/4009169c82d815aa0d61bfe0faa57e8b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/90-36431b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/9SLYA-PCQKP-CU56T-D2UD9-N4WJG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/Bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/ChangeMonitor-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/Clear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1AM01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1AONz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1DSqQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1DXIb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1DpU3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1hnXR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1hta6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1hta7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1hta7(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1uyOA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RE1uyOA(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RW5CFu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RW7DtR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RW7DtR(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RW7Li9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RW7Li9(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/RWaRQ0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/WR-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/a3698060313.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/a8e5657ad4817c99ff844c7af7668a91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/aam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/ac-a1857c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/broker-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/broker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/cartcount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/d6-7475ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/dc-3db089" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/dest5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/fbds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/ld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/meBoot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/meCore.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/meversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/microsoft-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/serverComponent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/sp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/store_enus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/t.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/Shop Surface Pro Tablets, Surface Laptop, and Surface Book/Shop Surface Pro Tablets, Surface Laptop, and Surface Book_files/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ss8_bootstrap/resource/navbar/navbar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Ycab0k38HQa679A3105VLafyz4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.83" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.83" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.example : demo-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="ee4ddf4b-31a7-49c3-a80f-965ee7e085b3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50828" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : demo-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa0ddd4-cb63-490c-963c-4e16998c4a88" name="Changes" comment="" />
+      <created>1700827390270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700827390270</updated>
+      <workItem from="1700827391875" duration="563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

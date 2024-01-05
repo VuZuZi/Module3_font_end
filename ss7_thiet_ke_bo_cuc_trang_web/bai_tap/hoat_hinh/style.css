@@ -56,3 +56,7 @@ li:not(:last-child) ::after{
 .card h3:hover{
     color: blue;
 }
+.des{
+    width:560px;
+    height:315px;
+}
