@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    body{
+        font-family: Arial;
+    }
+    .header{
+        position: fixed;
+        height: 10%;
+        width: 100%;
+    }
+    header{
+        display: flex;
+        text-align: center;
+        padding: 1px;
+        /*border: 3px dotted darkred;*/
+        background-color: #9db8d4;
+        /*position: fixed;*/
+
+    }
+    header img{
+        text-align: center;
+        height: 35px;
+        padding: 25px;
+        /*border: 5px;*/
+    }
+    main{
+        padding-top: 150px;
+        margin-top: 1%;
+    }
+    nav{
+        height: 30px;
+        /*background: blue;*/
+        text-align: center;
+        padding: 1px;
+        /*border: 3px dotted darkred;*/
+        background-color: #9db8d4;
+    }
+    nav ul, nav li{
+        padding: 0;
+        margin: 0;
+        /*border: 3px dotted blue*/
+    }
+    nav li {
+        list-style: none;
+        /*background-color: gold;*/
+        position: relative;
+        float: left;
+        margin: 0;
+        padding: 0;
+        width: 32%;  /*mỗi phần tử có độ rộng bằng 100px*/
+        text-align: center;
+        height: 30px;
+        line-height: 30px;
+        color: red;
+    }
+    li:not(:first-child)::before {
+        content: '•'; /* Thêm ký tự đặc biệt sau mỗi li, trừ phần tử cuối cùng */
+        margin: 25% 25%; /* Tạo khoảng cách giữa các ký tự đặc biệt */
+    }
+
+    article{
+        background: red;
+        height: 50%;
+    }
+    main{
+        display: flex;
+        height: 100%;
+    }
+
+    section{
+        flex: 70%;
+        /*background: black;*/
+    }
+
+
+
+    aside{flex: 30%;
+        /*background: gold;*/
+        /*display: flex;*/
+    }
+
+    footer{
+        line-height: 40px;
+        text-align: center;
+        border: 4px;
+        background-color: red;
+    }
+    #left button{
+        width: 90%;
+        margin: 5%;
+        margin-top: 2.5%;
+    }
+    #left img{
+        text-align: center;
+        padding: 5%;
+        width: 90%;
+    }
+    article iframe{
+        width: 100%;
+        height: 100%;
+    }
+</style>
+<body>
+<div class="header">
+<header>
+    <img src="img/img_4.png">
+    <h1>Phim Hoạt Hình</h1>
+</header>
+<nav>
+    <ul>
+        <li>News</li>
+        <li>Sports</li>
+        <li>Weather</li>
+    </ul>
+</nav>
+</div>
+<main>
+    <aside>
+        <div class="div" id="left">
+            <button>
+                <img src="img/img.png">
+                <h3>Welcome đến với khách sạn nobi</h3>
+            </button>
+            <button>
+                <img src="img/img_1.png">
+                <h3>Welcome đến với khách sạn nobi</h3>
+            </button>
+            <button>
+                <img src="img/img_2.png">
+                <h3>Còi điều khiển vật nuôi</h3>
+            </button>
+            <button>
+                <img src="img/img_3.png">
+                <h3>chiếc máy tạo kẹo bông</h3>
+            </button>
+
+        </div>
+    </aside>
+    <section>
+        <article>
+            <iframe src="https://www.youtube.com/embed/HELjXqg9Ht0?si=2dHf3qDdAtoITfSg" title="YouTube video player" frameborder="0" allow="accelerometer;
+             autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <h2>Lỡ hẹn với dòng sông lam</h2>
+        </article>
+<!--        <div>Article</div>-->
+    </section>
+
+</main>
+<footer>
+    <h3>Design</h3>
+</footer>
+</body>
+</html>
